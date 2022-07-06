@@ -13,9 +13,11 @@ const Home = () => {
 		<div className="text-center">
 			
 			<Navbar />
+				<br />
 			<Jumbo />
+			<br />
 			<Card />
-			<Card />
+			<br />
 			<Footer />
 			
 		</div>
